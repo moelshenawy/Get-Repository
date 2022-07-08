@@ -14,13 +14,13 @@
 
 ## Hosting
 
-The App hosted on GitHub Pages
+The Get-Repositories App is hosted on GitHub Pages
 
 ---
 
 ## Technologies
 
-> To fetching GitHub Repositories by user name i Used fetch function in javascript to get GitHub API's.
+> To fetching **[GitHub Repositories](https://muhammad-elshenawy.github.io/Get-Repository/)** by user name i Used fetch function in javascript to get GitHub API's.
 
 ---
 
